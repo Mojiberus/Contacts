@@ -13,7 +13,7 @@
             <TextBlock 
                 Margin="5 10"
                 Name="nameTextBlock" 
-                Foreground="Green"
+                Foreground="Blue"
                 FontWeight="Heavy"/>
             <TextBlock 
                 Margin="5 10"
